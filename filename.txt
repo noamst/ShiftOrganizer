@@ -1,0 +1,16 @@
+Here is the current scheduling:
+[(1, 'Noam', 'Stopler', 24)] -> d11: 1
+[(1, 'Noam', 'Stopler', 24)] -> d12: 1
+[(1, 'Noam', 'Stopler', 24)] -> d13: 1
+[(1, 'Noam', 'Stopler', 24)] -> d14: 1
+[(1, 'Noam', 'Stopler', 24)] -> d15: 1
+[(2, 'Tomer', 'Stopler', 21)] -> d5: 1
+[(2, 'Tomer', 'Stopler', 21)] -> d7: 1
+[(2, 'Tomer', 'Stopler', 21)] -> d8: 1
+[(2, 'Tomer', 'Stopler', 21)] -> d9: 1
+[(2, 'Tomer', 'Stopler', 21)] -> d10: 1
+[(3, 'John', 'Smith', 20)] -> d1: 1
+[(3, 'John', 'Smith', 20)] -> d2: 1
+[(3, 'John', 'Smith', 20)] -> d3: 1
+[(3, 'John', 'Smith', 20)] -> d4: 1
+[(3, 'John', 'Smith', 20)] -> d6: 1
